@@ -93,3 +93,9 @@ body {
   border-radius: 5px;
   background: #e77171;
 }
+
+@media(max-width: 990px) {
+  .home-link {
+    font-size: 23px;
+  }
+}
